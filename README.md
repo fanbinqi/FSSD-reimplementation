@@ -1,0 +1,15 @@
+FSSD-Mobilenet
+==============
+Pytorch 0.3.1 re-implementation FSSD based Mobilenet and VGG, FSSD-VGG reached `mAP=79.7`, and FSSD-Mobilenet reached `mAP=72.7` on PASCAL VOC0712</br>
+
+Read the paper for more details:[FSSD：Feature Fusion Single Shot Multibox Detector](https://arxiv.org/abs/1512.02325)
+
+*Network* | *Data* | *mAP*
+----|------|----
+FSSD_VGG | VOC07+12  | 79.74
+FSSD_Mobilenet | VOC07+12  | 72.7
+<p></p>
+
+our code is based [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD), the result is slightly better than paper (79.74 vs 78.8), and a high prommte than Mobilenet-SSD(72.7 vs 68).
+
+If you are interested in this project, please email me(fanbinqidhd@gmail.com)

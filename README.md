@@ -12,6 +12,6 @@ FSSD_Mobilenet | VOC07+12  | 72.7
 
 The model of VGG-FSSD can be downloaded [here](https://github.com/dlyldxwl/fssd.pytorch), Mobilenet-FSSD will be released soon.
 
-our code is based [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD), and a high prommte than Mobilenet-SSD(72.7 vs 68).
+our code is based [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD), and a high prommte than original Mobilenet-SSD (72.7 vs 68).
 
 If you are interested in this project, please email me(fanbinqidhd@gmail.com)

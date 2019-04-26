@@ -1,12 +1,12 @@
 FSSD-Mobilenet
 ==============
-Pytorch 0.3.1 re-implementation FSSD based Mobilenet and VGG, FSSD-VGG reached `mAP=78.8`, and FSSD-Mobilenet reached `mAP=72.7` on PASCAL VOC0712</br>
+Pytorch 0.3.1 re-implementation FSSD based Mobilenet and VGG, FSSD-VGG reached `mAP=79.8`, and FSSD-Mobilenet reached `mAP=72.7` on PASCAL VOC0712</br>
 
 Read the paper for more details:[FSSD：Feature Fusion Single Shot Multibox Detector](https://arxiv.org/abs/1512.02325)
 
 *Network* | *Data* | *mAP*
 ----|------|----
-FSSD_VGG | VOC07+12  | 78.8
+FSSD_VGG | VOC07+12  | 79.8
 FSSD_Mobilenet | VOC07+12  | 72.7
 <p></p>
 

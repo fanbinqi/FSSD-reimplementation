@@ -7,7 +7,7 @@ Read the paper for more details:[FSSD：Feature Fusion Single Shot Multibox Dete
 *Network* | *Data* | *mAP*
 ----|------|----
 FSSD_VGG | VOC07+12  | 79.8
-FSSD_Mobilenet | VOC07+12  | 72.7
+FSSD_Mobilenet | VOC07+12  | 74.2
 <p></p>
 
 The model of VGG-FSSD can be downloaded [here](https://pan.baidu.com/s/1n26QiIF1rEB7eGZO3Eqz4Q),and the password is `yb6w` , Mobilenet-FSSD will be released soon.
